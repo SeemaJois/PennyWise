@@ -1,3 +1,5 @@
+# Steps to run the project
+
 1.    Open folder
 2.    Install npm modules in homepage
 3.    Start mongo db
